@@ -84,7 +84,7 @@ Custom error formatter or the name of a built-in formatter.
 - Type: `boolean`
 - Default: `true`
 
-The warings found will be printed.
+The warnings found will be printed.
 
 ### `emitError`
 
